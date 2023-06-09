@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+Uma calculadora básica feita usando Flutter e Dart.
 
 ## Getting Started
 
